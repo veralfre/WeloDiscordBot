@@ -19,9 +19,7 @@ namespace WeloDiscordBot
             
             #region SettingUp
             bot = new DiscordClient();
-            bot.ClientPrivateInformation.Email = "veralfre@gmail.com";
-            bot.ClientPrivateInformation.Username = "WeloDiscordBot";
-            bot.ClientPrivateInformation.Password = "welodiscord";
+            //Removed and changed password
             MessageHandler.bot = bot;
 
             #region ConnectionDelegate
