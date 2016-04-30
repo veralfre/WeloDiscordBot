@@ -1,0 +1,16 @@
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DiscordSharp.dll
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NAudio.dll
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\websocket-sharp.dll
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebSocket4Net.dll
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DiscordSharp.pdb
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\DiscordSharp.xml
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NAudio.xml
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\websocket-sharp.xml
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\WeloDiscordBot.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WeloDiscordBot.exe.config
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WeloDiscordBot.exe
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WeloDiscordBot.pdb
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\WeloDiscordBot.exe
+c:\users\freddy\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\WeloDiscordBot.pdb
